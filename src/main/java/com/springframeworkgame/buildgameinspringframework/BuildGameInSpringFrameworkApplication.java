@@ -1,8 +1,6 @@
 package com.springframeworkgame.buildgameinspringframework;
 
 import com.springframeworkgame.buildgameinspringframework.game.GameRunner;
-import com.springframeworkgame.buildgameinspringframework.game.MarioGame;
-import com.springframeworkgame.buildgameinspringframework.game.SuperContraGame;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;

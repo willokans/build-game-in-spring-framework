@@ -1,6 +1,5 @@
 package com.springframeworkgame.buildgameinspringframework.game;
 
-import com.springframeworkgame.buildgameinspringframework.game.MarioGame;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

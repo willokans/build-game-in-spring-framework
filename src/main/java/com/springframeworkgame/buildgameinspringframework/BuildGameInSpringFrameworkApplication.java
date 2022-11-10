@@ -20,8 +20,6 @@ public class BuildGameInSpringFrameworkApplication {
 //		GameRunner runner = new GameRunner(game);
 
 		runner.runGame();
-
-
 	}
 
 }
